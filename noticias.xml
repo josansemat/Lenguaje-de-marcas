@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias del Real Betis Balompié</title>
+    <link>https://www.realbetisbalompie.es</link>
+    <description>Últimas noticias del Real Betis Balompié</description>
+    <item>
+      <title>Goleada del Betis en su último partido</title>
+      <link>https://www.realbetisbalompie.es</link>
+      <description>El Real Betis Balompié gana su último partido con una contundente goleada.</description>
+      <pubDate>Fri, 31 Dec 1999 23:59:59 EST</pubDate>
+    </item>
+  </channel>
+</rss>
